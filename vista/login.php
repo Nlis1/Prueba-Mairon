@@ -58,7 +58,7 @@
           </div>
 
           <div class="text-center text-lg-start mt-4 pt-2">
-            <input type="submit" value="Iniciar sesión" class="btn btn-danger" stiyle="color: #FFF;">
+            <input type="submit" value="Iniciar sesión" class="btn btn-success" stiyle="color: #FFF;">
             <p class="small fw-bold mt-2 pt-1 mb-0">No tienes una cuenta?<a href="#!"
                 class="link-info">Registrate</a></p>
           </div>
