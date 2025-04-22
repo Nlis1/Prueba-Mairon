@@ -30,7 +30,7 @@
       <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
         <form method="POST" action="../login.php">
             <div>
-                <h3>Iniciar Sesion</h3> <br>
+                <h3>Iniciar La Sesion</h3> <br>
             </div>
           <!-- Email input -->
           <div data-mdb-input-init class="form-outline mb-4">
