@@ -95,7 +95,7 @@
             <div class="container-fluid">
 							<div class="panel panel-success">
 								<div class="panel-heading">
-									<h3 class="panel-title"><i class="zmdi zmdi-refresh"></i> &nbsp; ACTUALIZAR DOCUMENTO</h3>
+									<h3 class="panel-title"><i class="zmdi zmdi-refresh"></i> &nbsp; ACTUALIZAR EL DOCUMENTO</h3>
 								</div>
 								<div class="panel-body">
 									<form class="FormularioAjax ActualizarDocument" method="POST" action="../api.php/document/<?php echo $id ?>">
