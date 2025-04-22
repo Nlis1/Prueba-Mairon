@@ -54,7 +54,7 @@
                 Recuerdame
               </label>
             </div>
-            <a href="#!" class="text-body">Olvidaste la contraseña?</a>
+            <a href="#!" class="text-body">Olvidaste la aejaskajska?</a>
           </div>
 
           <div class="text-center text-lg-start mt-4 pt-2">

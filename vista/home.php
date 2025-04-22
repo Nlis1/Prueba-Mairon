@@ -110,12 +110,12 @@
 				</div>
 				<div class="full-box tile-number text-titles">
 					<p class="full-box">10</p>
-					<small>Register</small>
+					<small>Registro</small>
 				</div>
 			</article>
 			<article class="full-box tile">
 				<div class="full-box tile-title text-center text-titles text-uppercase">
-					Student
+					Estudiante
 				</div>
 				<div class="full-box tile-icon text-center">
 					<i class="zmdi zmdi-face"></i>
