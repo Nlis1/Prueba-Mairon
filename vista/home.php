@@ -103,7 +103,7 @@
 			</article>
 			<article class="full-box tile">
 				<div class="full-box tile-title text-center text-titles text-uppercase">
-					Teacher
+					Profesor
 				</div>
 				<div class="full-box tile-icon text-center">
 					<i class="zmdi zmdi-male-alt"></i>
