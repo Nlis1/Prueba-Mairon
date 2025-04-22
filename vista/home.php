@@ -110,7 +110,7 @@
 				</div>
 				<div class="full-box tile-number text-titles">
 					<p class="full-box">10</p>
-					<small>Register</small>
+					<small>Registro</small>
 				</div>
 			</article>
 			<article class="full-box tile">
