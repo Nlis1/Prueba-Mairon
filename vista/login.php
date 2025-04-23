@@ -54,13 +54,13 @@
                 Recuerdame
               </label>
             </div>
-            <a href="#!" class="text-body">Olvidaste la aejaskajska?</a>
+            <a href="#!" class="text-body">Olvidaste la contraseña??</a>
           </div>
 
           <div class="text-center text-lg-start mt-4 pt-2">
             <input type="submit" value="Iniciar sesión" class="btxn btn-success" stiyle="color: #FFF;">
             <p class="small fw-bold mt-2 pt-1 mb-0">¿No tienes una cuenta?<a href="#!"
-                class="link-info">Registrate</a></p>
+                class="link-info">Registrate ahora!</a></p>
           </div>
 
         </form>
